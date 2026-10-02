@@ -16,7 +16,7 @@
 #### 🔐 **Secure Authentication**
 - Email-based user registration with OTP verification
 - SMTP integration for automated email delivery
-- Password hashing with PBKDF2-HMAC-SHA256
+- Password hashing
 - Complete audit trail of all authentication events
 - Session management with secure login/logout
 
